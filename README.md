@@ -1,7 +1,7 @@
 
 <h1 align = "center"> Hi! I am Shimra, welcome to my profile!</h1>
 
-<h3 align = "center"> I am a junior at UIC majoring in CS, a Break Through Tech sprintern and AI Fellow.
+<h3 align = "center"> I am a junior at UIC majoring in CS, a Break Through Tech sprintern and AI Fellow.</h3>
 
 - During this summer, I worked on [Predicting Final Insurance Claims at Allstate](https://github.com/ShimraaHazmi/Allstate1B)
 - You can reach out to me at: **shimrahazmi@gmail.com**
